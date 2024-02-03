@@ -8,3 +8,4 @@ A repo for Cloud computing course, all labs will be uploaded weekly.
 - Ofek Ben Avraham 
 - Almog Elbaz
 - Maayan Avittan
+- Lital Leschinsky
