@@ -2,7 +2,7 @@
 A repo for Cloud computing course, all labs will be uploaded weekly.
 
 
-### 👨‍🎓 Group Memebers 👩‍🎓	
+### 👨‍🎓 Group Members 👩‍🎓	
 - Rotem Porat
 - Guy Pariente
 - Ofek Ben Avraham 
